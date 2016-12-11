@@ -1,1 +1,1 @@
-# vuejs-blog
+vue.js simple SPA example
